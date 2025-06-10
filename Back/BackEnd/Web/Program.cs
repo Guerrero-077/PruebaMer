@@ -1,0 +1,46 @@
+using Business.Interface;
+using Business.Services;
+using Data.Interface.DataBasic;
+using Data.Repository;
+using Entity.Context;
+using Helpers.AutoMapper;
+using Microsoft.EntityFrameworkCore;
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+
+builder.Services.AddControllers();
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("SqlServer")));
+
+builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
+
+
+
+builder.Services.AddScoped<IPaciente, PacienteService>();
+//builder.Services.AddScoped<IRolUserService, RolUserService>();
+//builder.Services.AddScoped<IRolUserService, RolUserService>();
+
+
+builder.Services.AddScoped(typeof(IData<>), typeof(DataGeneric<>));
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+app.UseHttpsRedirection();
+
+app.UseAuthorization();
+
+app.MapControllers();
+
+app.Run();
