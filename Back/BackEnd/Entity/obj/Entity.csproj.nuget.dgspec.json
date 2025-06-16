@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Entity.csproj": {}
+    "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Entity.csproj": {
+    "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Entity.csproj",
+        "projectPath": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\braya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\obj\\",
+        "outputPath": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -87,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

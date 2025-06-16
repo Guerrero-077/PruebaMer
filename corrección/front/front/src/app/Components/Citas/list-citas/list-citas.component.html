@@ -1,0 +1,97 @@
+<div class="container" *ngIf="citas && citas.length > 0; else sinCitas">
+    <button mat-flat-button routerLink="listDetele" style="margin-top: 4rem;">Restore</button>
+
+    <h2 class="titulo-tabla">{{ isEditMode ? '✏️ Editar Cita' : '➕ Crear Cita' }}</h2>
+
+    <form [formGroup]="form" (ngSubmit)="save()" class="formulario-cita">
+
+        <!-- Paciente -->
+        <mat-form-field appearance="fill">
+            <mat-label>Paciente</mat-label>
+            <mat-select formControlName="pacienteId">
+                <mat-option *ngFor="let p of pacientes" [value]="p.id">{{ p.name }}</mat-option>
+            </mat-select>
+        </mat-form-field>
+
+        <!-- Doctor -->
+        <mat-form-field appearance="fill">
+            <mat-label>Doctor</mat-label>
+            <mat-select formControlName="doctorId">
+                <mat-option *ngFor="let d of doctores" [value]="d.id">{{ d.name }}</mat-option>
+            </mat-select>
+        </mat-form-field>
+
+        <!-- Consultorio -->
+        <mat-form-field appearance="fill">
+            <mat-label>Consultorio</mat-label>
+            <input matInput type="number" formControlName="consultorio" />
+        </mat-form-field>
+
+        <!-- Fecha de la cita -->
+        <mat-form-field appearance="fill">
+            <mat-label>Fecha de la cita</mat-label>
+            <input matInput [matDatepicker]="picker" formControlName="fechaCita">
+            <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+            <mat-datepicker #picker></mat-datepicker>
+        </mat-form-field>
+
+        <!-- Hora de la cita -->
+        <mat-form-field appearance="fill">
+            <mat-label>Hora de la cita</mat-label>
+            <input matInput type="time" formControlName="horaCita" />
+        </mat-form-field>
+
+        <!-- Botones -->
+        <div class="form-actions">
+            <button mat-raised-button color="primary" type="submit" [disabled]="form.invalid">
+                {{ isEditMode ? 'Actualizar' : 'Guardar' }}
+            </button>
+            <button mat-stroked-button type="button" (click)="resetForm()">Cancelar</button>
+        </div>
+
+    </form>
+
+
+    <h2 class="titulo-tabla">📋 Lista de Citas</h2>
+
+    <div class="tabla-cards">
+        <div class="card-fila" *ngFor="let cita of citas">
+            <div class="card-header">
+                <mat-icon class="icono-usuario">event</mat-icon>
+                <span class="card-title">Cita con {{ cita.doctorName }}</span>
+            </div>
+
+            <div class="card-content">
+                <div class="info-linea">
+                    <strong>Paciente:</strong>
+                    <span>{{ cita.pacienteName }}</span>
+                </div>
+                <div class="info-linea">
+                    <strong>Consultorio:</strong>
+                    <span>{{ cita.consultorio }}</span>
+                </div>
+                <div class="info-linea">
+                    <strong>Fecha:</strong>
+                    <span>{{ cita.fechaCita | date: 'dd/MM/yyyy' }}</span>
+                </div>
+                <div class="info-linea">
+                    <strong>Hora:</strong>
+                    <span>{{ cita.horaCita }}</span>
+                </div>
+            </div>
+
+            <div class="card-actions">
+                <button mat-icon-button color="primary" (click)="edit(cita)">
+                    <mat-icon>edit</mat-icon>
+                </button>
+                <button mat-icon-button color="warn" (click)="delete(cita.id!)">
+                    <mat-icon>delete</mat-icon>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<ng-template #sinCitas>
+    <p style="margin: 2rem; text-align: center;">No hay citas registradas.</p>
+</ng-template>

@@ -1,125 +1,128 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\",
+  "WorkspaceRootPath": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D268B2A-202D-4D03-B6DA-7B3802C7E63B}|WebApplication1\\WebApplication1.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D268B2A-202D-4D03-B6DA-7B3802C7E63B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D268B2A-202D-4D03-B6DA-7B3802C7E63B}|WebApplication1\\WebApplication1.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D268B2A-202D-4D03-B6DA-7B3802C7E63B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D268B2A-202D-4D03-B6DA-7B3802C7E63B}|WebApplication1\\WebApplication1.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1D268B2A-202D-4D03-B6DA-7B3802C7E63B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\helpers\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|solutionrelative:helpers\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\business\\services\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|solutionrelative:business\\services\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C614C1E-9B8E-4B75-B6A4-D2EC81D71E87}|Data\\Data.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\data\\repository\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C614C1E-9B8E-4B75-B6A4-D2EC81D71E87}|Data\\Data.csproj|solutionrelative:data\\repository\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C614C1E-9B8E-4B75-B6A4-D2EC81D71E87}|Data\\Data.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\data\\repository\\abasemodeldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C614C1E-9B8E-4B75-B6A4-D2EC81D71E87}|Data\\Data.csproj|solutionrelative:data\\repository\\abasemodeldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|solutionrelative:entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C614C1E-9B8E-4B75-B6A4-D2EC81D71E87}|Data\\Data.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\data\\interface\\databasic\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C614C1E-9B8E-4B75-B6A4-D2EC81D71E87}|Data\\Data.csproj|solutionrelative:data\\interface\\databasic\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\business\\interface\\ipaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|solutionrelative:business\\interface\\ipaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\entity\\dtos\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\entity\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\entity\\dtos\\citasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\citasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\business\\repository\\businessbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\business\\repository\\businessbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|solutionrelative:business\\repository\\businessbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\business\\interface\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|solutionrelative:business\\interface\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\business\\repository\\abasemodelbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|solutionrelative:business\\repository\\abasemodelbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\helpers\\initialize\\initializelogical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|solutionrelative:helpers\\initialize\\initializelogical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\helpers\\helpers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|solutionrelative:helpers\\helpers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\helpers\\business\\businessvalidationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|solutionrelative:helpers\\business\\businessvalidationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\helpers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|solutionrelative:helpers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\entity\\dtos\\base\\basegenericdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D268B2A-202D-4D03-B6DA-7B3802C7E63B}|WebApplication1\\WebApplication1.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D268B2A-202D-4D03-B6DA-7B3802C7E63B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D268B2A-202D-4D03-B6DA-7B3802C7E63B}|WebApplication1\\WebApplication1.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D268B2A-202D-4D03-B6DA-7B3802C7E63B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\helpers\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|solutionrelative:helpers\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\business\\services\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|solutionrelative:business\\services\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C614C1E-9B8E-4B75-B6A4-D2EC81D71E87}|Data\\Data.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\data\\repository\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C614C1E-9B8E-4B75-B6A4-D2EC81D71E87}|Data\\Data.csproj|solutionrelative:data\\repository\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C614C1E-9B8E-4B75-B6A4-D2EC81D71E87}|Data\\Data.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\data\\repository\\abasemodeldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C614C1E-9B8E-4B75-B6A4-D2EC81D71E87}|Data\\Data.csproj|solutionrelative:data\\repository\\abasemodeldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|solutionrelative:entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C614C1E-9B8E-4B75-B6A4-D2EC81D71E87}|Data\\Data.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\data\\interface\\databasic\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C614C1E-9B8E-4B75-B6A4-D2EC81D71E87}|Data\\Data.csproj|solutionrelative:data\\interface\\databasic\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\business\\interface\\ipaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|solutionrelative:business\\interface\\ipaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\entity\\dtos\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\entity\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\entity\\dtos\\citasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\citasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\business\\interface\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|solutionrelative:business\\interface\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\business\\repository\\abasemodelbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8344208-C3CD-4661-B106-BCC7F4B758AD}|Business\\Business.csproj|solutionrelative:business\\repository\\abasemodelbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\helpers\\initialize\\initializelogical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|solutionrelative:helpers\\initialize\\initializelogical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\helpers\\helpers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|solutionrelative:helpers\\helpers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\helpers\\business\\businessvalidationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|solutionrelative:helpers\\business\\businessvalidationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\helpers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD193AA5-EE9B-410A-93EB-5474D62BB2BA}|Helpers\\Helpers.csproj|solutionrelative:helpers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\entity\\dtos\\base\\basegenericdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\base\\basegenericdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\entity\\dtos\\base\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\entity\\dtos\\base\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\base\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\entity\\domain\\models\\implements\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\entity\\domain\\models\\implements\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|solutionrelative:entity\\domain\\models\\implements\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\entity\\domain\\models\\implements\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\entity\\domain\\models\\implements\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|solutionrelative:entity\\domain\\models\\implements\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\entity\\domain\\models\\base\\basemodelgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\entity\\domain\\models\\base\\basemodelgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|solutionrelative:entity\\domain\\models\\base\\basemodelgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\entity\\domain\\models\\implements\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\entity\\domain\\models\\implements\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|solutionrelative:entity\\domain\\models\\implements\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|solutionrelative:entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Migrations\\20250610221049_MigracionInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\Migrations\\20250610221049_MigracionInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Migrations\\20250610221049_MigracionInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\entity\\domain\\models\\base\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\entity\\domain\\models\\base\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|solutionrelative:entity\\domain\\models\\base\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\pruebamer\\back\\backend\\entity\\migrations\\20250610221341_migracioninicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|c:\\users\\braya\\onedrive\\desktop\\basura\\pruebamer\\back\\backend\\entity\\migrations\\20250610221341_migracioninicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79311ACB-4448-48D9-9C3D-3D9141060BF6}|Entity\\Entity.csproj|solutionrelative:entity\\migrations\\20250610221341_migracioninicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -139,10 +142,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\WebApplication1\\WebApplication1.csproj*",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T18:27:26.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\WebApplication1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,11 +167,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\WebApplication1\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\WebApplication1\\appsettings.json",
               "RelativeToolTip": "WebApplication1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -164,11 +180,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Helpers\\AutoMapper\\AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Helpers\\AutoMapper\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "Helpers\\AutoMapper\\AutoMapperProfile.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Helpers\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Helpers\\AutoMapper\\AutoMapperProfile.cs",
               "RelativeToolTip": "Helpers\\AutoMapper\\AutoMapperProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -177,11 +193,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "IData.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Data\\Interface\\DataBasic\\IData.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Data\\Interface\\DataBasic\\IData.cs",
               "RelativeDocumentMoniker": "Data\\Interface\\DataBasic\\IData.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Data\\Interface\\DataBasic\\IData.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Data\\Interface\\DataBasic\\IData.cs",
               "RelativeToolTip": "Data\\Interface\\DataBasic\\IData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -190,11 +206,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "DataGeneric.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Data\\Repository\\DataGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Data\\Repository\\DataGeneric.cs",
               "RelativeDocumentMoniker": "Data\\Repository\\DataGeneric.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Data\\Repository\\DataGeneric.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Data\\Repository\\DataGeneric.cs",
               "RelativeToolTip": "Data\\Repository\\DataGeneric.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,11 +219,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ABaseModelData.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Data\\Repository\\ABaseModelData.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Data\\Repository\\ABaseModelData.cs",
               "RelativeDocumentMoniker": "Data\\Repository\\ABaseModelData.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Data\\Repository\\ABaseModelData.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Data\\Repository\\ABaseModelData.cs",
               "RelativeToolTip": "Data\\Repository\\ABaseModelData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,11 +232,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Context\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Entity\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Context\\ApplicationDbContext.cs",
               "RelativeToolTip": "Entity\\Context\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -229,11 +245,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "PacienteService.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Business\\Services\\PacienteService.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Business\\Services\\PacienteService.cs",
               "RelativeDocumentMoniker": "Business\\Services\\PacienteService.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Business\\Services\\PacienteService.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Business\\Services\\PacienteService.cs",
               "RelativeToolTip": "Business\\Services\\PacienteService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -242,11 +258,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "PacienteDto.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\PacienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\PacienteDto.cs",
               "RelativeDocumentMoniker": "Entity\\DTOs\\PacienteDto.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\PacienteDto.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\PacienteDto.cs",
               "RelativeToolTip": "Entity\\DTOs\\PacienteDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,11 +271,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "DoctorDto.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\DoctorDto.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\DoctorDto.cs",
               "RelativeDocumentMoniker": "Entity\\DTOs\\DoctorDto.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\DoctorDto.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\DoctorDto.cs",
               "RelativeToolTip": "Entity\\DTOs\\DoctorDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -268,11 +284,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "CitasDto.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\CitasDto.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\CitasDto.cs",
               "RelativeDocumentMoniker": "Entity\\DTOs\\CitasDto.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\CitasDto.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\CitasDto.cs",
               "RelativeToolTip": "Entity\\DTOs\\CitasDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAxwAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -281,11 +297,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "IPaciente.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Business\\Interface\\IPaciente.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Business\\Interface\\IPaciente.cs",
               "RelativeDocumentMoniker": "Business\\Interface\\IPaciente.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Business\\Interface\\IPaciente.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Business\\Interface\\IPaciente.cs",
               "RelativeToolTip": "Business\\Interface\\IPaciente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -294,24 +310,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "BusinessBasic.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Business\\Repository\\BusinessBasic.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Business\\Repository\\BusinessBasic.cs",
               "RelativeDocumentMoniker": "Business\\Repository\\BusinessBasic.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Business\\Repository\\BusinessBasic.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Business\\Repository\\BusinessBasic.cs",
               "RelativeToolTip": "Business\\Repository\\BusinessBasic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T22:30:40.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "IBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Business\\Interface\\IBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Business\\Interface\\IBusiness.cs",
               "RelativeDocumentMoniker": "Business\\Interface\\IBusiness.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Business\\Interface\\IBusiness.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Business\\Interface\\IBusiness.cs",
               "RelativeToolTip": "Business\\Interface\\IBusiness.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -320,11 +336,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ABaseModelBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Business\\Repository\\ABaseModelBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Business\\Repository\\ABaseModelBusiness.cs",
               "RelativeDocumentMoniker": "Business\\Repository\\ABaseModelBusiness.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Business\\Repository\\ABaseModelBusiness.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Business\\Repository\\ABaseModelBusiness.cs",
               "RelativeToolTip": "Business\\Repository\\ABaseModelBusiness.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -333,11 +349,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "InitializeLogical.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Helpers\\Initialize\\InitializeLogical.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Helpers\\Initialize\\InitializeLogical.cs",
               "RelativeDocumentMoniker": "Helpers\\Initialize\\InitializeLogical.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Helpers\\Initialize\\InitializeLogical.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Helpers\\Initialize\\InitializeLogical.cs",
               "RelativeToolTip": "Helpers\\Initialize\\InitializeLogical.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -346,11 +362,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Helpers.csproj",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Helpers\\Helpers.csproj",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Helpers\\Helpers.csproj",
               "RelativeDocumentMoniker": "Helpers\\Helpers.csproj",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Helpers\\Helpers.csproj",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Helpers\\Helpers.csproj",
               "RelativeToolTip": "Helpers\\Helpers.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -359,11 +375,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "BusinessValidationHelper.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Helpers\\Business\\BusinessValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Helpers\\Business\\BusinessValidationHelper.cs",
               "RelativeDocumentMoniker": "Helpers\\Business\\BusinessValidationHelper.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Helpers\\Business\\BusinessValidationHelper.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Helpers\\Business\\BusinessValidationHelper.cs",
               "RelativeToolTip": "Helpers\\Business\\BusinessValidationHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -372,11 +388,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Helpers\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Helpers\\Class1.cs",
               "RelativeDocumentMoniker": "Helpers\\Class1.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Helpers\\Class1.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Helpers\\Class1.cs",
               "RelativeToolTip": "Helpers\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -385,24 +401,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 2,
               "Title": "Business.csproj",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Business\\Business.csproj",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Business\\Business.csproj",
               "RelativeDocumentMoniker": "Business\\Business.csproj",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Business\\Business.csproj",
               "RelativeToolTip": "Business\\Business.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-10T22:30:34.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "BaseGenericDto.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\Base\\BaseGenericDto.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\Base\\BaseGenericDto.cs",
               "RelativeDocumentMoniker": "Entity\\DTOs\\Base\\BaseGenericDto.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\Base\\BaseGenericDto.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\Base\\BaseGenericDto.cs",
               "RelativeToolTip": "Entity\\DTOs\\Base\\BaseGenericDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -411,11 +427,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "BaseDto.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\Base\\BaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\Base\\BaseDto.cs",
               "RelativeDocumentMoniker": "Entity\\DTOs\\Base\\BaseDto.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\Base\\BaseDto.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\DTOs\\Base\\BaseDto.cs",
               "RelativeToolTip": "Entity\\DTOs\\Base\\BaseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -424,11 +440,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "20250610221341_MigracionInicial.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Migrations\\20250610221341_MigracionInicial.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Migrations\\20250610221341_MigracionInicial.cs",
               "RelativeDocumentMoniker": "Entity\\Migrations\\20250610221341_MigracionInicial.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Migrations\\20250610221341_MigracionInicial.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Migrations\\20250610221341_MigracionInicial.cs",
               "RelativeToolTip": "Entity\\Migrations\\20250610221341_MigracionInicial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -437,22 +453,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "20250610221049_MigracionInicial.cs",
               "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Migrations\\20250610221049_MigracionInicial.cs",
-              "RelativeDocumentMoniker": "Entity\\Migrations\\20250610221049_MigracionInicial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\PruebaMer\\Back\\BackEnd\\Entity\\Migrations\\20250610221049_MigracionInicial.cs",
               "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Migrations\\20250610221049_MigracionInicial.cs",
-              "RelativeToolTip": "Entity\\Migrations\\20250610221049_MigracionInicial.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\PruebaMer\\Back\\BackEnd\\Entity\\Migrations\\20250610221049_MigracionInicial.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T22:10:49.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Implements\\Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Implements\\Doctor.cs",
               "RelativeDocumentMoniker": "Entity\\Domain\\Models\\Implements\\Doctor.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Implements\\Doctor.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Implements\\Doctor.cs",
               "RelativeToolTip": "Entity\\Domain\\Models\\Implements\\Doctor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -461,11 +477,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Cita.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Implements\\Cita.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Implements\\Cita.cs",
               "RelativeDocumentMoniker": "Entity\\Domain\\Models\\Implements\\Cita.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Implements\\Cita.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Implements\\Cita.cs",
               "RelativeToolTip": "Entity\\Domain\\Models\\Implements\\Cita.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -474,11 +490,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Paciente.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Implements\\Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Implements\\Paciente.cs",
               "RelativeDocumentMoniker": "Entity\\Domain\\Models\\Implements\\Paciente.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Implements\\Paciente.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Implements\\Paciente.cs",
               "RelativeToolTip": "Entity\\Domain\\Models\\Implements\\Paciente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -487,11 +503,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "BaseModelGeneric.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Base\\BaseModelGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Base\\BaseModelGeneric.cs",
               "RelativeDocumentMoniker": "Entity\\Domain\\Models\\Base\\BaseModelGeneric.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Base\\BaseModelGeneric.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Base\\BaseModelGeneric.cs",
               "RelativeToolTip": "Entity\\Domain\\Models\\Base\\BaseModelGeneric.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -500,11 +516,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "BaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Base\\BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Base\\BaseModel.cs",
               "RelativeDocumentMoniker": "Entity\\Domain\\Models\\Base\\BaseModel.cs",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Base\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Domain\\Models\\Base\\BaseModel.cs",
               "RelativeToolTip": "Entity\\Domain\\Models\\Base\\BaseModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -513,11 +529,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Entity.csproj",
-              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Entity.csproj",
+              "DocumentMoniker": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Entity.csproj",
               "RelativeDocumentMoniker": "Entity\\Entity.csproj",
-              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\PruebaMer\\Back\\BackEnd\\Entity\\Entity.csproj",
+              "ToolTip": "C:\\Users\\braya\\OneDrive\\Desktop\\Basura\\PruebaMer\\Back\\BackEnd\\Entity\\Entity.csproj",
               "RelativeToolTip": "Entity\\Entity.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

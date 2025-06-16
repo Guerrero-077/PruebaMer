@@ -1,0 +1,14 @@
+<mat-toolbar color="primary" class="custom-toolbar">
+    <div class="toolbar-links">
+        <a routerLink="Citas" mat-button routerLinkActive="active"
+            [routerLinkActiveOptions]="{ exact: true }">Citas</a>
+
+    </div>
+
+    <div class="toolbar-actions">
+        <a mat-button routerLink="/login" (click)="clearLocalStorage()">
+            <mat-icon>person</mat-icon>
+            <span class="logout-text">Cerrar sesión</span>
+        </a>
+    </div>
+</mat-toolbar>

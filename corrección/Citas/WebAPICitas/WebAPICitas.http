@@ -1,0 +1,6 @@
+@WebAPICitas_HostAddress = http://localhost:5155
+
+GET {{WebAPICitas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

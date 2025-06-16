@@ -1,0 +1,65 @@
+/* .custom-toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 16px;
+    background-color: #1976d2;
+    color: white;
+}
+
+.toolbar-links a {
+    margin-right: 12px;
+    color: white;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.toolbar-links a:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.toolbar-actions a {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.logout-text {
+    margin-left: 4px;
+}
+
+@media (max-width: 600px) {
+    .toolbar-links {
+        display: none;
+    }
+
+    .toolbar-actions {
+        margin-left: auto;
+    }
+} */
+
+
+a {
+    margin-left: 10px;
+}
+
+/* Estilos base para los enlaces en el toolbar */
+.mat-toolbar a {
+    color: rgba(255, 255, 255, 0.7);
+    /* Texto claro en fondo oscuro */
+    text-decoration: none;
+    transition: color 0.3s ease, border-bottom 0.3s ease;
+}
+
+/* Efecto hover para los enlaces */
+.mat-toolbar a:hover {
+    color: #00bcd4;
+    /* Cyan en hover */
+}
+
+/* Estilo para el enlace activo */
+.mat-toolbar a.active {
+    color: #00bcd4;
+    /* Cyan para destacar el enlace activo */
+    border-bottom: 2px solid #00bcd4;
+}
